@@ -4,7 +4,7 @@
 <img align="right" src="nat.jpg" width="50%"/>
 
 <p align="justify">
-I am a Doctor of Physics who is currently in transition from Academia to Industry. I worked as a postdoctoral researcher at the University of Pittsburgh from 2017-2020 performing research on Gravitational Waves. I have been exploring the theoretical and practical aspects of Machine Learning in the past year. Currently, I am looking for jobs in Industry in the fields of Data Science, Artificial Intelligence and Physics.</p>
+I am a Doctor of Physics who is currently in transition from Academia to Industry. I worked as a postdoctoral researcher at the University of Pittsburgh from 2017-2020 performing research on Gravitational Waves. I have been exploring the theoretical and practical aspects of Machine Learning in the past years.</p>
 
 - 🔭 I’m currently working on: Data Science and AI projects
 - 📚 I’m currently learning: Time Series Analysis
